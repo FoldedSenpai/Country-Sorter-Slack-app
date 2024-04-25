@@ -10,3 +10,4 @@ This app uses Bolt framework and Block Kit.
 4. Install app to Slack workspace.
 
 This app listens to both public and private channels it's a member of and initiates when someone mentions the app.
+This app also has *Socket Mode* enabled.
