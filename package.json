@@ -1,0 +1,21 @@
+{
+  "name": "all-countries-slack",
+  "version": "0.0.1",
+  "description": "A simple Slack app that lists/sorts countries.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^3.17.1",
+    "@slack/web-api": "^7.0.4",
+    "axios": "^1.6.8"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://github.com/FoldedSenpai/Country-Sorter-Slack-app/tree/main"
+  },
+  "license": "UNLICENSED"
+}
